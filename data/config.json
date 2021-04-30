@@ -1,0 +1,11 @@
+{
+  "mockdata": {
+    "account": {
+      "name": "sanyinchen",
+      "id": "123"
+    },
+    "extra": {
+      "hobby": "computer games"
+    }
+  }
+}
